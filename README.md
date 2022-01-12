@@ -1,4 +1,4 @@
-LinkedIn: https://www.linkedin.com/in/kamilszerlag/
+LinkedIn👨🏻‍💻: https://www.linkedin.com/in/kamilszerlag/
 <!--
 **KamilSzerlag/KamilSzerlag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
